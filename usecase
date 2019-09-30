@@ -1,0 +1,10 @@
+
+
+showCreate(tableName) return createTableStmt;
+
+alterSchema(createTableStmt, newCol, newDataType)
+execute newCreateStmt;
+
+insertTable(oldTableName, NewTableName)
+insertNewTable;
+renameOldTable;
